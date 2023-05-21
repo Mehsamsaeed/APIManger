@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5BD868CE-2EAA-4C05-B4D3-871D8D901D3A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B3FFB53-CDC8-48F1-A071-70788A074ACD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIManger/APIManger/Network Layer/URLSessionClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "runDataTask(endpoint:requestEncoder:responseMap:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "835E1847-7DD4-4F5E-B488-48DD666D4625"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIManger/APIManger/Network Layer/URLSessionClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "runDataTask(endpoint:requestEncoder:responseMap:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "835E1847-7DD4-4F5E-B488-48DD666D4625 - 3253db7bea511e03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIManger.HTTPClient.runDataTask&lt;&#x3c4;_0_0&gt;(endpoint: APIManger.EndPoint, requestEncoder: APIManger.URLRequestEncoder, responseMap: (Foundation.Data, __C.NSURLResponse) throws -&gt; APIManger.Response&lt;&#x3c4;_0_0&gt;, completion: (Swift.Result&lt;APIManger.Response&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "APIManger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehsamsaeed/Desktop/APIManger/APIManger/APIManger/Network%20Layer/URLSessionClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "835E1847-7DD4-4F5E-B488-48DD666D4625 - 3253db7bea511e03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIManger.HTTPClient.runDataTask&lt;&#x3c4;_0_0&gt;(endpoint: APIManger.EndPoint, requestEncoder: APIManger.URLRequestEncoder, responseMap: (Foundation.Data, __C.NSURLResponse) throws -&gt; APIManger.Response&lt;&#x3c4;_0_0&gt;, completion: (Swift.Result&lt;APIManger.Response&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "APIManger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehsamsaeed/Desktop/APIManger/APIManger/APIManger/Network%20Layer/URLSessionClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "835E1847-7DD4-4F5E-B488-48DD666D4625 - 3253db7bea511e03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIManger.HTTPClient.runDataTask&lt;&#x3c4;_0_0&gt;(endpoint: APIManger.EndPoint, requestEncoder: APIManger.URLRequestEncoder, responseMap: (Foundation.Data, __C.NSURLResponse) throws -&gt; APIManger.Response&lt;&#x3c4;_0_0&gt;, completion: (Swift.Result&lt;APIManger.Response&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "APIManger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehsamsaeed/Desktop/APIManger/APIManger/APIManger/Network%20Layer/URLSessionClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "888">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F05E7A5-6BEB-4004-BCFB-7628376C6D76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APIManger/APIManger/Network Layer/URLSessionClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "runDataTask(endpoint:requestEncoder:responseMap:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8F05E7A5-6BEB-4004-BCFB-7628376C6D76 - 230dc29e13524f14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APIManger.HTTPClient.runDataTask&lt;&#x3c4;_0_0&gt;(endpoint: APIManger.EndPoint, requestEncoder: APIManger.URLRequestEncoder, responseMap: (Foundation.Data, __C.NSURLResponse) throws -&gt; APIManger.Response&lt;&#x3c4;_0_0&gt;, completion: (Swift.Result&lt;APIManger.Response&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "APIManger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehsamsaeed/Desktop/APIManger/APIManger/APIManger/Network%20Layer/URLSessionClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "936">
+               </Location>
+               <Location
+                  uuid = "8F05E7A5-6BEB-4004-BCFB-7628376C6D76 - 3253db7bea511e03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in APIManger.HTTPClient.runDataTask&lt;&#x3c4;_0_0&gt;(endpoint: APIManger.EndPoint, requestEncoder: APIManger.URLRequestEncoder, responseMap: (Foundation.Data, __C.NSURLResponse) throws -&gt; APIManger.Response&lt;&#x3c4;_0_0&gt;, completion: (Swift.Result&lt;APIManger.Response&lt;&#x3c4;_0_0&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "APIManger"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mehsamsaeed/Desktop/APIManger/APIManger/APIManger/Network%20Layer/URLSessionClient.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "700">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
